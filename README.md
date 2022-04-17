@@ -24,8 +24,7 @@
 -Html5+Css+JavaScript
 -ES6新语法,掌握Ajax和Json
 
-**:pushpin: 网站导航项目**
-1. **技术栈介绍**
+
 - 前端：Vue2.x + Element-ui + scss
 - 后端：Express + Node.Js
 - 数据库：MongoDB
@@ -38,6 +37,13 @@
 *MSsql和MySql等数据库
 *Html5+Css+JavaScript
 *ES6新语法,掌握Ajax和Json
+
+* Jquery和Boostrap和Node.js和React.js,Webpack和Babel
+* uniapp版本地址：[navigation-uniapp](https://github.com/Hacker233/navigation-uniapp) (同微信小程序【科技趣玩】)
+* 后台项目地址 : [navigation-serve](https://github.com/Hacker233/navigation-serve) （私有项目）
+* uniapp版本地址：[navigation-uniapp](https://github.com/Hacker233/navigation-uniapp) (同微信小程序【科技趣玩】)
+* 后台项目地址 : [navigation-serve](https://github.com/Hacker233/navigation-serve) （私有项目）
+
 
 3. **在线体验地址**
 * [smallpig.site](http://wxxiaoshuo.h.fengit.cn/)

@@ -24,6 +24,14 @@
 -Html5+Css+JavaScript
 -ES6新语法,掌握Ajax和Json
 
+**:pushpin: 网站导航项目**
+1. **技术栈介绍**
+- 前端：Vue2.x + Element-ui + scss
+- 后端：Express + Node.Js
+- 数据库：MongoDB
+- 数据存储服务：minio
+
+
 2. **后端学习**
 *Jquery和Boostrap和Node.js和React.js,Webpack和Babel
 *Asp.net mvc和EF6

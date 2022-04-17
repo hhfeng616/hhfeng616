@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HHfeng616&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 你好，我是Daryl(https://hhfeng616.github.io/)
+### 你好，我是Daryl
 * [个人博客](https://hhfeng616.github.io/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=HHFeng616.readme)

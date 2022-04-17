@@ -18,18 +18,18 @@
 
 **:pushpin: 网站导航项目**
 1. **前端学习**
-Jquery和Boostrap和Node.js和React.js,Webpack和Babel
-Asp.net mvc和EF6
-MSsql和MySql等数据库
-Html5+Css+JavaScript
-ES6新语法,掌握Ajax和Json
+-Jquery和Boostrap和Node.js和React.js,Webpack和Babel
+-Asp.net mvc和EF6
+-MSsql和MySql等数据库
+-Html5+Css+JavaScript
+-ES6新语法,掌握Ajax和Json
 
 2. **后端学习**
-Jquery和Boostrap和Node.js和React.js,Webpack和Babel
-Asp.net mvc和EF6
-MSsql和MySql等数据库
-Html5+Css+JavaScript
-ES6新语法,掌握Ajax和Json
+*Jquery和Boostrap和Node.js和React.js,Webpack和Babel
+*Asp.net mvc和EF6
+*MSsql和MySql等数据库
+*Html5+Css+JavaScript
+*ES6新语法,掌握Ajax和Json
 
 3. **在线体验地址**
 * [smallpig.site](http://wxxiaoshuo.h.fengit.cn/)

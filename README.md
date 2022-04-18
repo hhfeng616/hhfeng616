@@ -11,7 +11,7 @@
 
 <img src="https://wx3.sinaimg.cn/mw2000/008s0pRagy1h1cmko7gujj3076076jru.jpg" alt="https://wx3.sinaimg.cn/mw2000/008s0pRagy1h1cmko7gujj3076076jru.jpg" style="zoom:25%;" />
 
-### 正在进行的开源项目
+### 正在进行的学习技能
 
 **:pushpin: 网站导航项目**
 

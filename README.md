@@ -1,10 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HHfeng616&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 你好，我是Daryl
-* [个人博客](https://hhfeng616.github.io/)
+- ![](https://visitor-badge.glitch.me/badge?page_id=HHFeng616.readme)
+- [个人博客](https://hhfeng616.github.io/)
 - 微信公众号[知阅书斋](https://wx2.sinaimg.cn/mw2000/008s0pRagy1h1cn2vcp83j307607674l.jpg)
 <img src="https://wx2.sinaimg.cn/mw2000/008s0pRagy1h1cn2vcp83j307607674l.jpg" alt="https://wx2.sinaimg.cn/mw2000/008s0pRagy1h1cn2vcp83j307607674l.jpg">
-- ![](https://visitor-badge.glitch.me/badge?page_id=HHFeng616.readme)
+
 
 ### 微信小程序：【喵喵学车】
 
